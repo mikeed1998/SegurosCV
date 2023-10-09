@@ -8,7 +8,7 @@
 
 <section class="formulario-contacto_contacto">
     <div class="container-fluid py-5">
-        <div class="row">
+    <div class="row">
             <div class="col fs-1 text-center">
                 ¿Tienes dudas?
             </div>
@@ -19,24 +19,25 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 py-3 mx-auto">
-                <form action="">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 py-3 mx-auto">
+                <form action="vendor/Correos/mail.php" method="POST">
+                    <input type="hidden" name="tipo" value="contacto">
                     <div class="form-group row py-2">
-                            <div class="col-4">
-                            <label for="nombre_c">Nombre</label>
-                            <input type="text" name="nombre_c" class="form-control">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="nombre">Nombre</label>
+                            <input type="text" name="nombre" class="form-control">
                         </div>
-                        <div class="col-4">
-                            <label for="apellidos_c">Apellidos</label>
-                            <input type="text" name="apellidos_c" class="form-control">
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="apellidos">Apellidos</label>
+                            <input type="text" name="apellidos" class="form-control">
                         </div>
-                        <div class="col-4">
-                            <label for="correo_">Correo</label>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="correo">Correo</label>
                             <input type="text" name="correo" class="form-control">
                         </div>
                     </div>
                     <div class="form-group row py-2">
-                        <div class="col-12">
+                        <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
                             <label for="duda">Escribe tus comentarios</label>
                             <textarea name="duda" id="duda" cols="30" rows="3" class="form-control"></textarea>
                         </div>

@@ -10,14 +10,14 @@
         <div class="row py-5">
             <div class="col-11 mx-auto">
                 <div class="row">
-                    <div class="col-6 text-center">
+                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 text-center">
                         <div class="row">
                             <div class="col">
                                 <img src="img/insurance1.jpg" alt="" class="img-fluid w-100">
                             </div>
                         </div>
                     </div>
-                    <div class="col-6">
+                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 ">
                         <div class="row">
                             <div class="col display-2 text-dark">
                                 Nosotros
@@ -29,6 +29,7 @@
                                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro exercitationem dolor minus, recusandae facilis nemo sed consequuntur explicabo aliquam eaque, ipsam molestias, hic maxime. Provident, quam praesentium doloribus repellendus, corporis amet, ullam impedit blanditiis corrupti natus reiciendis nemo! Molestias, distinctio. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia iusto a totam id facilis suscipit asperiores numquam quibusdam eveniet sit!</p>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>
@@ -52,8 +53,8 @@
                                 <div class="col position-absolute top-50 start-50 translate-middle">
                                     <div class="dot"></div>
                                 </div>
-                                <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid #4CB5E6;"></div>
-                                    <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid black;"></div>
+                                    <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                         2010
                                     </div>
                                     <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-primero">
@@ -68,8 +69,8 @@
                                     <div class="col position-absolute top-50 start-50 translate-middle">
                                         <div class="dot"></div>
                                     </div>
-                                    <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid #4CB5E6;"></div>
-                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                    <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid black;"></div>
+                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                             2013
                                         </div>
                                         <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-medio">
@@ -84,8 +85,8 @@
                                         <div class="col position-absolute top-50 start-50 translate-middle">
                                             <div class="dot"></div>
                                         </div>
-                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid #4CB5E6;"></div>
-                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid black;"></div>
+                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                             2015
                                         </div>
                                         <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-medio">
@@ -100,8 +101,8 @@
                                         <div class="col position-absolute top-50 start-50 translate-middle">
                                             <div class="dot"></div>
                                         </div>
-                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid #4CB5E6;"></div>
-                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid black;"></div>
+                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                             2021
                                         </div>
                                         <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-medio">
@@ -116,8 +117,8 @@
                                         <div class="col position-absolute top-50 start-50 translate-middle">
                                             <div class="dot"></div>
                                         </div>
-                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid #4CB5E6;"></div>
-                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                        <div class="col-12 position-absolute top-50 start-100 translate-middle" style="border: 1px solid black;"></div>
+                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                             2022
                                         </div>
                                         <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-medio">
@@ -132,7 +133,7 @@
                                         <div class="col position-absolute top-50 start-50 translate-middle">
                                             <div class="dot"></div>
                                         </div>
-                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: #4CB5E6;">
+                                        <div class="col-6 fs-5 fw-bolder text-center position-absolute top-0 start-50 translate-middle" style="color: black;">
                                             2023
                                         </div>
                                         <div class="col-12 py-5 text-dark text-center position-absolute top-100 start-100 translate-middle cuadro-texto-ultimo">

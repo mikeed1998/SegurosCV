@@ -20,33 +20,33 @@
         <div class="row">
             <div class="col-9 py-5 mx-auto">
                 <div class="row">
-                    <div class="col-2 border-end text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-end text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-1" id="tipo-1">Tipo 1</a>
                     </div>
-                    <div class="col-2 border-end border-start text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-end border-start text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-2" id="tipo-2">Tipo 2</a>
                     </div>
-                    <div class="col-2 border-end border-start text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-end border-start text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-3" id="tipo-3">Tipo 3</a>
                     </div>
-                    <div class="col-2 border-end border-start text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-end border-start text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-4" id="tipo-4">Tipo 4</a>
                     </div>
-                    <div class="col-2 border-end border-start text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-end border-start text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-5" id="tipo-5">Tipo 5</a>
                     </div>
-                    <div class="col-2 border-start text-center border-dark fs-4">
+                    <div class="col-xxl-2 col-xl-2 col-lg-2 col-md-4 col-sm-4 col-xs-12 col-12 border-start text-center border-dark fs-4">
                         <a href="#" class="filter-option text-dark" data-filter=".tipo-6" id="tipo-6">Tipo 6</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-9 py-5 mx-auto">
+            <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 py-5 mx-auto">
                 <div class="row js-filter">
 
 
-                    <div class="col-4 mx-auto py-3 tipo tipo-1">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-1">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -68,7 +68,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-2">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-2">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -90,7 +90,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-3">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-3">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -113,7 +113,7 @@
                         </div>
                     </div>
 
-                    <div class="col-4 mx-auto py-3 tipo tipo-2">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-2">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -135,7 +135,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-3">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-3">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -157,7 +157,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-2">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-2">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -180,7 +180,7 @@
                         </div>
                     </div>
 
-                    <div class="col-4 mx-auto py-3 tipo tipo-4">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-4">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -202,7 +202,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-6">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-6">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">
@@ -224,7 +224,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-4 mx-auto py-3 tipo tipo-5">
+                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-9 col-xd-9 col-9 mx-auto py-3 tipo tipo-5">
                         <div class="card carta-seguro">
                             <img src="img/logo.jpg" alt="" class="img-fluid w-auto p-3 mx-auto">
                             <div class="card-body">

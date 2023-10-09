@@ -17,7 +17,7 @@
     .dot {
         width: 10px;
         height: 10px;
-        background-color: #4CB5E6;
+        background-color: black;
         border-radius: 50%;
     }
 
@@ -58,6 +58,19 @@
             height: 36rem;
             width: 100%;
         }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 10rem;
+        }
     }
 
     /* xxl */
@@ -97,6 +110,19 @@
             background-position: center center;
             height: 36rem;
             width: 100%;
+        }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 11rem;
         }
     }
 
@@ -183,6 +209,27 @@
         .boton-xs {
             display: none;
         }
+
+        .slider-image {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 36rem;
+            width: 100%;
+        }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 10rem;
+        }
     }
 
     /* md */
@@ -214,6 +261,28 @@
 
         .boton-xs {
             display: none;
+        }
+
+        .slider-image {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 36rem;
+            width: 100%;
+        }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 10rem;
+            margin-bottom: 10rem;
         }
     }
 
@@ -247,6 +316,28 @@
 
         .boton-xs {
             display: none;
+        }
+
+        .slider-image {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 30rem;
+            width: 100%;
+        }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 10rem;
+            margin-bottom: 10rem;
         }
     }
 
@@ -284,5 +375,27 @@
 
         .boton-xs {
             display: block;
+        }
+
+        .slider-image {
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+            height: 30rem;
+            width: 100%;
+        }
+
+        .contenedor-mapa {
+            width: 100%;
+            height: 36rem;
+        }
+
+        .logos {
+            height: 10rem;
+        }
+
+        .titulo-capacitacion {
+            margin-top: 10rem;
+            margin-bottom: 10rem;
         }
     }

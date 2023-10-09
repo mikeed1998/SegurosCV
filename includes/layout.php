@@ -60,10 +60,10 @@
                 <div class="col fs-3 fw-normal mt-4 text-success text-start">
                     <ul class="row" style="list-style-type: none; padding-left: 0;">
                         <li class="dropdown col-6" style="list-style-type: none; padding-left: 0;">
-                            <a href="#" class="dropdown-toggle fs-3 fw-bolder" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none; color: black;">AYUDA</a>       
+                            <a href="#" class="dropdown-toggle fs-3 fw-bolder" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none; color: black;">USUARIO</a>       
                             <ul class="dropdown-menu" style="list-style-type: none; padding-left: 0;">
-                                <li class="dropdown-item fs-4"><a href="" style="text-decoration: none; color: black;">Preguntas Frecuentes</a></li>
-                                <li class="dropdown-item fs-4"><a href="" style="text-decoration: none; color: black;">Aviso de Privacidad</a></li>
+                                <li class="dropdown-item fs-4"><a href="registro.php" style="text-decoration: none; color: black;">Registrarse</a></li>
+                                <li class="dropdown-item fs-4"><a href="login.php" style="text-decoration: none; color: black;">Ingresar</a></li>
                             </ul>
                         </li>
                     </ul> 
@@ -95,38 +95,38 @@
                     <div id="miColapso" class="collapse">
                         <div class="row">
                             <div class="col-12 fs-3 fw-bolder mt-4 text-center">
-                                <a href="" class="text-dark" style="text-decoration: none;">
+                                <a href="index.php" class="text-dark" style="text-decoration: none;">
                                     INICIO
                                 </a>
                             </div>
                             <div class="col-12 fs-3 fw-bolder mt-4 text-center">
-                                <a href="" class="text-dark" style="text-decoration: none;">
-                                    TIENDA
-                                </a>
-                            </div>
-                            <div class="col-12 fs-3 fw-bolder mt-4 text-center">
-                                <a href="" class="text-dark" style="text-decoration: none;">
-                                    SOLUCIONES
-                                </a>
-                            </div>
-                            <div class="col-12 fs-3 fw-bolder mt-4 text-center">
-                                <a href="" class="text-dark" style="text-decoration: none;">
+                                <a href="nosotros.php" class="text-dark" style="text-decoration: none;">
                                     NOSOTROS
                                 </a>
                             </div>
                             <div class="col-12 fs-3 fw-bolder mt-4 text-center">
-                                <a href="" class="text-dark" style="text-decoration: none;">
+                                <a href="seguros.php" class="text-dark" style="text-decoration: none;">
+                                    SEGUROS
+                                </a>
+                            </div>
+                            <div class="col-12 fs-3 fw-bolder mt-4 text-center">
+                                <a href="capacitacion.php" class="text-dark" style="text-decoration: none;">
+                                    CAPACITACIÓN
+                                </a>
+                            </div>
+                            <div class="col-12 fs-3 fw-bolder mt-4 text-center">
+                                <a href="contacto.php" class="text-dark" style="text-decoration: none;">
                                     CONTACTO
                                 </a>
                             </div>
                             <div class="col fs-3 fw-normal mt-4  text-center">
                                 <ul class="row" style="list-style-type: none; padding-left: 0;">
                                     <li class="dropdown col-6 mx-auto" style="list-style-type: none; padding-left: 0;">
-                                        <a href="#" class="dropdown-toggle fs-3 fw-normal" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none; color: black;">AYUDA</a>
+                                        <a href="#" class="dropdown-toggle fs-3 fw-normal" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="text-decoration: none; color: black;">USUARIO</a>
                                         <ul class="dropdown-menu" style="list-style-type: none; padding-left: 0;">
-                                            <li class="dropdown-item fs-4"><a href="" style="text-decoration: none; color: black;"></a></li>
+                                            <li class="dropdown-item fs-4"><a href="registro.php" style="text-decoration: none; color: black;">Registrarse</a></li>
                                             <li><hr class="dropdown-divider"></li>
-                                            <li class="dropdown-item fs-4"><a href="" style="text-decoration: none; color: black;">Aviso de Privacidad</a></li>
+                                            <li class="dropdown-item fs-4"><a href="login.php" style="text-decoration: none; color: black;">Ingresar</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -147,7 +147,8 @@
                             <div class="col-xxl-6 col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12 col-11 mx-auto mt-3">
                                 <div class="row">
                                     <div class="col">
-                                        <img src="img/logo.jpg" alt="" class="img-fluid"/>
+                                        <img src="img/logo.jpg" alt="" class="img-fluid w-50"/>
+                                   
                                     </div>
                                     </div>
                                     <div class="row mt-5">
@@ -176,16 +177,16 @@
                                                     NAVEGACIÓN
                                                 </div>
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Inicio</a>
+                                                    <a href="index.php" style="text-decoration: none; color: #BCBCB0;">Inicio</a>
                                                 </div>
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Tienda</a>
+                                                    <a href="nosotros.php" style="text-decoration: none; color: #BCBCB0;">Nosotros</a>
                                                 </div>
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Soluciones</a>
+                                                    <a href="seguros.php" style="text-decoration: none; color: #BCBCB0;">Seguros</a>
                                                 </div>
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Nosotros</a>
+                                                    <a href="capacitacion.php" style="text-decoration: none; color: #BCBCB0;">Capacitación</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -197,17 +198,17 @@
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Preguntas Frecuentes</a>
+                                                    <a href="#/" style="text-decoration: none; color: #BCBCB0;">Preguntas Frecuentes</a>
                                                 </div>
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Aviso de Privacidad</a>
+                                                    <a href="#/" style="text-decoration: none; color: #BCBCB0;">Aviso de Privacidad</a>
                                                 </div>
                                             </div>
                                             <div class="row">
                                                 <div class="col-12 py-1" style="color: #BCBCB0;">
-                                                    <a href="" style="text-decoration: none; color: #BCBCB0;">Métodos de Pago</a>
+                                                    <a href="#/" style="text-decoration: none; color: #BCBCB0;">Métodos de Pago</a>
                                                 </div>
                                             </div>
                                         </div>

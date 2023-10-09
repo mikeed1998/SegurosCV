@@ -27,8 +27,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-3 py-3 mx-auto text-center">
-                                <a href="tienda.php" class="btn btn-outline border border-info rounded-pill text-white w-100 fw-bolder fs-5" style="text-decoration: none;">Ver más</a>
+                            <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-6 col-6 py-3 mx-auto text-center">
+                                <a href="seguros.php" class="btn btn-outline border border-info rounded-pill text-white w-100 fw-bolder fs-5" style="text-decoration: none;">Ver más</a>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-3 py-3 mx-auto text-center">
+                            <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-6 col-6 py-3 mx-auto text-center">
                                 <a href="capacitacion.php" class="btn btn-outline border border-info rounded-pill text-white w-100 fw-bolder fs-5" style="text-decoration: none;">Ver más</a>
                             </div>
                         </div>
@@ -62,17 +62,17 @@
 
 <section class="nosotros-home">
     <div class="container-fluid">
-    <div class="row py-5">
+        <div class="row py-5">
             <div class="col-11 mx-auto">
                 <div class="row">
-                    <div class="col-6 text-center">
+                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 text-center">
                         <div class="row">
                             <div class="col">
                                 <img src="img/insurance1.jpg" alt="" class="img-fluid w-100">
                             </div>
                         </div>
                     </div>
-                    <div class="col-6">
+                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 ">
                         <div class="row">
                             <div class="col display-2 text-dark">
                                 Sobre Nosotros
@@ -230,25 +230,25 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-6 py-3 mx-auto">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-9 col-sm-12 col-xs-12 col-12 py-3 mx-auto">
                 <form action="vendor/Correos/mail.php" method="POST">
                     <input type="hidden" name="tipo" value="contacto">
                     <div class="form-group row py-2">
-                            <div class="col-4">
-                            <label for="nombre_c">Nombre</label>
-                            <input type="text" name="nombre_c" class="form-control">
+                            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="nombre">Nombre</label>
+                            <input type="text" name="nombre" class="form-control">
                         </div>
-                        <div class="col-4">
-                            <label for="apellidos_c">Apellidos</label>
-                            <input type="text" name="apellidos_c" class="form-control">
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="apellidos">Apellidos</label>
+                            <input type="text" name="apellidos" class="form-control">
                         </div>
-                        <div class="col-4">
-                            <label for="correo_">Correo</label>
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
+                            <label for="correo">Correo</label>
                             <input type="text" name="correo" class="form-control">
                         </div>
                     </div>
                     <div class="form-group row py-2">
-                        <div class="col-12">
+                        <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-11 col-xs-11 col-11 mx-auto">
                             <label for="duda">Escribe tus comentarios</label>
                             <textarea name="duda" id="duda" cols="30" rows="3" class="form-control"></textarea>
                         </div>
@@ -362,8 +362,8 @@
         {
             breakpoint: 1024,
             settings: {
-                slidesToShow: 3,
-                slidesToScroll: 3,
+                slidesToShow: 2,
+                slidesToScroll: 1,
                 infinite: true,
                 dots: true
             }
