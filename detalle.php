@@ -7,7 +7,7 @@
 
 <div class="container-fluid pb-5" style="background-color: white;">
         <div class="row" style="background-color: black;">
-            <div class="col-6 position-relative " style="
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12 img-detalle" style="
                 background-image: url('img/insurance1.jpg');
                 background-size: cover;
                 background-repeat: no-repeat;
@@ -16,7 +16,7 @@
                     <img src="img/tienda/producto001.png" alt="" class="img-fluid w-100"> 
                 </div>
             </div>
-            <div class="col-6 px-5 py-5 text-white">
+            <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12 px-5 py-5 text-white">
                 <div class="row">
                     <div class="col fs-1 text-start fw-bolder">
                         Seguro - X
@@ -28,25 +28,25 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-6 border-top border-dark"></div>
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 border-top border-dark"></div>
                 </div>
                 <div class="row">
-                    <div class="col-9 py-4 text-white-50 text-start" style="text-align: justify; line-height: 1.2;">
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 py-4 text-white-50 text-start" style="text-align: justify; line-height: 1.2;">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, exercitationem.
                         <br>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro enim eligendi dignissimos ut voluptate voluptas, beatae voluptatem itaque assumenda repellendus. At corrupti sed iste laboriosam accusantium. Deleniti repellendus molestias voluptas!
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-9 border-top border-dark"></div>
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 border-top border-dark"></div>
                 </div>
                 <div class="row">
-                    <div class="col-9 border-top border-dark"></div>
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 border-top border-dark"></div>
                 </div>
                 <div class="row">
                     <div class="col py-2 fs-2">
                         <div class="row">
-                            <div class="col-3 fw-light mt-2">
+                            <div class="col-6 fw-light mt-2">
                                 Características
                             </div>
                             <div class="col-6 fs-5">
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-9 border-top border-dark"></div>
+                    <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-xs-12 col-12 border-top border-dark"></div>
                 </div>
                 <div class="row">
                     <div class="col-10 py-5">
